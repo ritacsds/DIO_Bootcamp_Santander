@@ -1,2 +1,3 @@
-# DIO_Bootcamp_Santander
-Repositório com projetos do Santander Bootcamp Fullstack Developer
+# Projeto Recriando a pàgina Inicial do Instagram - DIO 
+
+/img/projetoRita.png
